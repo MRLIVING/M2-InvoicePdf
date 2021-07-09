@@ -1,4 +1,5 @@
 # M2-Mrl_InvoicePdf
+change invoice PDF font to support chinese characters
 
 ## Prerequisite
 * Magento v2.4.x

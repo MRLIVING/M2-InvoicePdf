@@ -13,3 +13,5 @@
 
 ## Usage
 * SALES > Invoices > open an invoice > Print
+<img src="https://github.com/MRLIVING/M2-Mrl_InvoicePdf/blob/main/doc/img/print_invoice.PNG?raw=true" width=300/>
+<img src="https://github.com/MRLIVING/M2-Mrl_InvoicePdf/blob/main/doc/img/cht_invoice.PNG" width=300/>

@@ -12,3 +12,4 @@
 * `./bin/magento setup:upgrade`
 
 ## Usage
+* SALES > Invoices > open an invoice > Print

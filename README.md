@@ -20,3 +20,4 @@ change invoice PDF font to support chinese characters
 
 ## Reference
 * [How to solving invoice PDF Chinese characters support problem in M2](https://magepow.com/blog/solving-invoice-pdf-chinese-characters-support-problem-in-magento-2/)
+* [Magento 2 invoice / shipment PDF Chinese garbled and not too long wrap problem](https://titanwolf.org/Network/Articles/Article?AID=a275fb21-7e68-4f87-8303-75d6b90d61d9)
